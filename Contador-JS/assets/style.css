@@ -1,0 +1,47 @@
+* {
+    background-color: darkslategray;
+    padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.fullCounter {
+    background-color: aliceblue;
+    width: 400px;
+    margin-left: 80vh;
+    border-radius: 20px;
+    position: fixed;
+}
+
+h1 {
+    color: rgb(90, 89, 89);
+    font-size: 30px;
+    background-color: aliceblue;
+}
+
+p {
+    color: grey;
+    background-color: aliceblue;
+
+}
+
+#counter {
+    background-color: aliceblue;
+
+}
+
+button {
+    border-radius: 50px;
+    background-color: grey;
+    margin: none;
+
+}
+
+button:hover {
+    background-color: rgb(192, 191, 191);
+}
+
+#currentNumber {
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
